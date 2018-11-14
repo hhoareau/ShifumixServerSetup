@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android API 27 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a41e197d-f3e8-4a53-aa09-2a16e5e8a171" />
+      <option name="name" value="a41e197d-f3e8-4a53-aa09-2a16e5e8a171" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.w3c/dom" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="54e95984-2e1d-4911-b47a-d8bbdbed14d9" />
+      <option name="name" value="54e95984-2e1d-4911-b47a-d8bbdbed14d9" />
+      <option name="url" value="https://mvnrepository.com/artifact/org.monte/screen-recorder" />
+    </remote-repository>
+  </component>
+</project>
